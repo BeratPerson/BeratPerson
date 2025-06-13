@@ -41,5 +41,5 @@ Most of my projects are in **private repositories** due to academic or business 
 ### 📫 How to reach me
 
 - 📧 Email: [beratkisi12@gmail.com](mailto:beratkisi12@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/beratkisi](https://linkedin.com/in/beratkisi) *(optional)*  
+- 💼 LinkedIn: [linkedin.com/in/beratkisi](https://linkedin.com/in/beratkisi) 
 
