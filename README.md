@@ -4,7 +4,7 @@
 ---
 
 🔧 I’m a passionate Full-Stack Developer with over **3 years** of experience in software development and project management.  
-Currently based in **Bremen, Germany**, I'm open to exciting opportunities in innovative teams across Europe.
+Currently based in **Bremen, Germany**.
 
 ---
 
@@ -42,13 +42,4 @@ Most of my projects are in **private repositories** due to academic or business 
 
 - 📧 Email: [beratkisi12@gmail.com](mailto:beratkisi12@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/beratkisi](https://linkedin.com/in/beratkisi) *(optional)*  
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beratperson&show_icons=true&theme=radical" alt="beratperson stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beratperson&layout=compact&theme=radical" alt="beratperson top langs" />
-</p>
-
----
